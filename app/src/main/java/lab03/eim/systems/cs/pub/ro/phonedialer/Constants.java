@@ -17,4 +17,5 @@ public interface Constants {
             R.id.diez_button
     };
     final public static int PERMISSION_REQUEST_CALL_PHONE = 1;
+    final public static int CONTACTS_MANAGER_REQUEST_CODE = 1;
 }
